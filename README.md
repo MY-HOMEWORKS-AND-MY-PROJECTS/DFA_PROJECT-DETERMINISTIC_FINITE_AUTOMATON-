@@ -1,1 +1,1 @@
-# DFA_Project-Deterministic Finite Automaton-
+# DFA Project Deterministic Finite Automaton-
